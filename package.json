@@ -1,0 +1,26 @@
+{
+  "name": "ng-password-meter",
+  "version": "0.1.0",
+  "description": "An easy to implement password strength meter developed for the Lifekees Password Manager",
+  "main": "ng-pass-meter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cykra/ng-password-meter.git"
+  },
+  "keywords": [
+    "angular",
+    "passwords",
+    "password meter",
+    "password strength",
+    "password measure",
+  ],
+  "author": "Cykra Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cykra/ng-password-meter/issues"
+  },
+  "homepage": "https://github.com/Cykra/ng-password-meter#readme"
+}
