@@ -29,7 +29,7 @@ Based on:
 4. Add ng-password-meter to your html at the appropriote position and specify the model to measure. Example:
   ```html
   <ng-password-meter password="pass"></ng-password-meter>
-  ```a
+  ```
 
 ## Dependencies
 None
