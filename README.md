@@ -1,6 +1,6 @@
 # ng-password-meter
 An easy to implement password strength meter originally developed for the 
-[Lifekees Password Manager]:(https://www.lifekees.com/)
+[Lifekees Password Manager](https://www.lifekees.com/)
 
 Based on:
 
