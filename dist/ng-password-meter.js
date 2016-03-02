@@ -5,13 +5,13 @@
 
 	/**
 	 * @ngdoc directive
-	 * @name ngPasswordMeter.directive:ngPassworMeterd
+	 * @name ngPasswordMeter.directive:ngPassworMeter
 	 * @description
 	 * Simple and elegant password strength meter from the Lifekees 
 	 * Password Manager
 	 */
-	angular.module('ngPassMeter', [])
-	.directive('ngPassMeter', function() {
+	angular.module('ngPasswordMeter', [])
+	.directive('ngPasswordMeter', function() {
 		return {
 			template: '<div class="pass-meter {{masterClass}}"><div class="{{colClass}} pass-meter-col {{first}}"><div class="indicator"></div></div><div class="{{colClass}} pass-meter-col {{second}}"><div class="indicator"></div></div><div class="{{colClass}} pass-meter-col {{third}}"><div class="indicator"></div></div><div class="{{colClass}} pass-meter-col {{fourth}}"><div class="indicator"></div></div><div class="pass-meter-message">{{message}}</div></div>',
 			restrict: 'E',
