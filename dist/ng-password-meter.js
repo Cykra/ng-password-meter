@@ -17,7 +17,7 @@
 			restrict: 'E',
 			scope: {
 				password: '=',
-				strength: '=',
+				strength: '=?',
 			},
 			link: function(scope) {
 				var measureStrength = function(p) {
