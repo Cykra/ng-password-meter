@@ -1,6 +1,6 @@
 {
   "name": "ng-password-meter",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "description": "An easy to implement password strength meter developed and maintained for the Lifekees Password Manager",
   "main": [
     "./dist/ng-password-meter.js",
