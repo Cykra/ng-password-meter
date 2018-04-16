@@ -33,8 +33,8 @@ Based on:
 ## Dependencies
 None
 
-## Used by sites such as
-* [https://www.airport.mu](Mauritius Airport Information)
-* [https://www.carrental.mu](Car Rental Services in Mauritius)
-* [https://www.scooterrental.mu](Scooter Rental Services in Mauritius)
-* [https://www.poolmaintenance.mu](Swimming Pool Maintenance and Cleaning Services in Mauritius)
+## Also Used By:
+* [Mauritius Airport Information](https://www.airport.mu)
+* [Car Rental Services in Mauritius](https://www.carrental.mu)
+* [Scooter Rental Services in Mauritius](https://www.scooterrental.mu)
+* [Swimming Pool Maintenance and Cleaning Services in Mauritius](https://www.poolmaintenance.mu)
